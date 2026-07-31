@@ -1,31 +1,31 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0524,50:2d0b5a,100:6d28d9&height=220&section=header&text=ABIRAMI%20K&fontSize=52&fontColor=E9D5FF&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=58&descSize=18&descColor=C4B5FD" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a05,50:c1440e,100:ff7a45&height=220&section=header&text=ABIRAMI%20K&fontSize=52&fontColor=FFE8D6&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=58&descSize=18&descColor=FFC299" width="100%"/>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Full+Stack+Engineer+%7C+Java+%2B+React;Building+Scalable+Web+Applications;Clean+Code+%7C+Strong+Fundamentals;Turning+Ideas+Into+Reliable+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FF6B35&center=true&vCenter=true&width=650&lines=Full+Stack+Engineer+%7C+Java+%2B+React;Building+Scalable+Web+Applications;Clean+Code+%7C+Strong+Fundamentals;Turning+Ideas+Into+Reliable+Software" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/B.E-Computer%20Science-6D28D9?style=flat-square&logo=googlescholar&logoColor=white"/>
-<img src="https://img.shields.io/badge/CGPA-7.64-7C3AED?style=flat-square&logo=bookstack&logoColor=white"/>
-<img src="https://img.shields.io/badge/Location-Cuddalore%2C%20Tamil%20Nadu%2C%20India-8B5CF6?style=flat-square&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/B.E-Computer%20Science-FF6B35?style=flat-square&logo=googlescholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/CGPA-7.64-FF4E50?style=flat-square&logo=bookstack&logoColor=white"/>
+<img src="https://img.shields.io/badge/Location-Cuddalore%2C%20Tamil%20Nadu%2C%20India-FF8C69?style=flat-square&logo=googlemaps&logoColor=white"/>
 
 <br/><br/>
 
-<a href="https://github.com/Abiramik-2004"><img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/abirami-kanthasamy"><img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:abiramikanthasamy@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/Abiramik-2004"><img src="https://img.shields.io/badge/GitHub-Follow-A78BFA?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Abiramik-2004"><img src="https://img.shields.io/badge/Portfolio-Visit-FF6B35?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/abirami-kanthasamy"><img src="https://img.shields.io/badge/LinkedIn-Connect-FF4E50?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:abiramikanthasamy@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-FF7F50?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Abiramik-2004"><img src="https://img.shields.io/badge/GitHub-Follow-FF8C69?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Abiramik-2004&style=flat-square&color=6d28d9&label=Profile+Views"/>
-<img src="https://img.shields.io/github/followers/Abiramik-2004?style=flat-square&color=7c3aed&labelColor=1a1a2e&logo=github&label=Followers"/>
-<img src="https://img.shields.io/github/stars/Abiramik-2004?style=flat-square&color=8b5cf6&labelColor=1a1a2e&logo=github&label=Stars"/>
+<img src="https://komarev.com/ghpvc/?username=Abiramik-2004&style=flat-square&color=ff6b35&label=Profile+Views"/>
+<img src="https://img.shields.io/github/followers/Abiramik-2004?style=flat-square&color=ff4e50&labelColor=1a0a05&logo=github&label=Followers"/>
+<img src="https://img.shields.io/github/stars/Abiramik-2004?style=flat-square&color=ff8c69&labelColor=1a0a05&logo=github&label=Stars"/>
 
 </div>
 
@@ -178,7 +178,7 @@ Contributed to full-stack web development initiatives, building functional web a
 
 **Full Stack Development**
 
-<img src="https://img.shields.io/badge/Java%20Full%20Stack%20Development-QSpiders-6D28D9?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java%20Full%20Stack%20Development-QSpiders-FF6B35?style=for-the-badge&logo=java&logoColor=white"/>
 
 <br/>
 
@@ -192,10 +192,10 @@ Trained in **Core Java, OOP, JDBC, Servlets, HTML, CSS, JavaScript**
 
 <div align="center">
 
-<a href="https://leetcode.com/Abiramik-2004"><img src="https://img.shields.io/badge/LeetCode-Profile-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="https://www.geeksforgeeks.org/user/Abiramik-2004"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-7C3AED?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/Abiramik-2004"><img src="https://img.shields.io/badge/HackerRank-Profile-8B5CF6?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-<a href="https://www.codechef.com/users/Abiramik-2004"><img src="https://img.shields.io/badge/CodeChef-Profile-A78BFA?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+<a href="https://leetcode.com/Abiramik-2004"><img src="https://img.shields.io/badge/LeetCode-Profile-FF6B35?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://www.geeksforgeeks.org/user/Abiramik-2004"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-FF4E50?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/Abiramik-2004"><img src="https://img.shields.io/badge/HackerRank-Profile-FF7F50?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+<a href="https://www.codechef.com/users/Abiramik-2004"><img src="https://img.shields.io/badge/CodeChef-Profile-FF8C69?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 
 <sub>Replace the usernames above with your actual handles once your coding profiles are set up.</sub>
 
@@ -207,12 +207,12 @@ Trained in **Core Java, OOP, JDBC, Servlets, HTML, CSS, JavaScript**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abiramik-2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=6D28D9" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=Abiramik-2004&theme=tokyonight&hide_border=true&background=0D0221&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Abiramik-2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A0A05&title_color=FF7A45&icon_color=FF6B35&text_color=FFC299&ring_color=FF4E50" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=Abiramik-2004&theme=tokyonight&hide_border=true&background=1A0A05&ring=FF6B35&fire=FF4E50&currStreakLabel=FF7A45" width="49%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abiramik-2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=A78BFA&text_color=C4B5FD" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abiramik-2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A0A05&title_color=FF7A45&text_color=FFC299" width="49%"/>
 
 </div>
 
@@ -222,7 +222,7 @@ Trained in **Core Java, OOP, JDBC, Servlets, HTML, CSS, JavaScript**
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Abiramik-2004&theme=discord&no-frame=true&column=7&margin-w=8&margin-h=8&title=Commits,Stars,Followers,PullRequest,Issues,Repositories,Experience"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Abiramik-2004&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8&title=Commits,Stars,Followers,PullRequest,Issues,Repositories,Experience"/>
 
 </div>
 
@@ -232,7 +232,7 @@ Trained in **Core Java, OOP, JDBC, Servlets, HTML, CSS, JavaScript**
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abiramik-2004&theme=react-dark&bg_color=0D0221&color=A78BFA&line=8B5CF6&point=E9D5FF&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abiramik-2004&theme=react-dark&bg_color=1A0A05&color=FF7A45&line=FF6B35&point=FFE8D6&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -277,10 +277,10 @@ open_to:
 
 <div align="center">
 
-<a href="mailto:abiramikanthasamy@gmail.com"><img src="https://img.shields.io/badge/Gmail-abiramikanthasamy%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/abirami-kanthasamy"><img src="https://img.shields.io/badge/LinkedIn-abirami--kanthasamy-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/Abiramik-2004"><img src="https://img.shields.io/badge/GitHub-Abiramik--2004-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://github.com/Abiramik-2004"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-A78BFA?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:abiramikanthasamy@gmail.com"><img src="https://img.shields.io/badge/Gmail-abiramikanthasamy%40gmail.com-FF6B35?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/abirami-kanthasamy"><img src="https://img.shields.io/badge/LinkedIn-abirami--kanthasamy-FF4E50?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Abiramik-2004"><img src="https://img.shields.io/badge/GitHub-Abiramik--2004-FF7F50?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Abiramik-2004"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-FF8C69?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </div>
 
@@ -290,6 +290,6 @@ open_to:
 
 <i>"Good software is built one solid, working piece at a time."</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:2d0b5a,100:0f0524&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7a45,50:c1440e,100:1a0a05&height=150&section=footer" width="100%"/>
 
 </div>
