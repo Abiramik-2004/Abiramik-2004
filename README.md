@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0524,50:2d0b5a,100:6d28d9&height=220&section=header&text=ABIRAMI%20K&fontSize=52&fontColor=E9D5FF&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18&descColor=C4B5FD" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0524,50:2d0b5a,100:6d28d9&height=220&section=header&text=ABIRAMI%20K&fontSize=52&fontColor=E9D5FF&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=58&descSize=18&descColor=C4B5FD" width="100%"/>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+AI-Powered+Assistive+Systems;OpenCV+%2B+YOLOv8+%2B+Voice+Intelligence;Full+Stack+Engineer+%7C+Java+%2B+React;Crafting+Scalable%2C+Human-Centered+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Full+Stack+Engineer+%7C+Java+%2B+React;Building+Scalable+Web+Applications;Clean+Code+%7C+Strong+Fundamentals;Turning+Ideas+Into+Reliable+Software" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -37,25 +37,25 @@
 
 ```yaml
 name: "Abirami K"
-role: "Computer Science Engineer | AI/ML Enthusiast | Full Stack Developer"
+role: "Computer Science Engineer | Full Stack Developer"
 location: "Cuddalore, Tamil Nadu, India"
 education: "B.E in Computer Science Engineering — Alagappa Chettiar Government
             College of Engineering and Technology, Karaikudi (2021 – 2025)"
-focus: ["Artificial Intelligence", "Computer Vision", "Full Stack Web Development",
-        "Assistive Technology", "Human-Centered Product Engineering"]
+focus: ["Full Stack Web Development", "Java Engineering", "Software Design",
+        "Problem Solving", "Product-Minded Engineering"]
 ```
 
-I'm a Computer Science Engineering graduate with a strong foundation in **Java, SQL, and modern web development**, and hands-on experience building **AI-powered applications** using **OpenCV** and **YOLOv8**. My engineering interests sit at the intersection of **machine learning, real-time systems, and accessibility** — I care deeply about building software that solves real human problems, not just technically impressive demos.
+I'm a Computer Science Engineering graduate with a strong foundation in **Java, SQL, and modern web development**. I enjoy building complete, working applications — from structuring backend logic to designing clean, usable front-end interfaces — and I care about writing code that's reliable, readable, and easy to maintain.
 
-I approach every project with a **product engineering mindset**: understanding the end user, designing for reliability, and shipping systems that are both technically sound and genuinely useful. My project portfolio spans **AI-driven assistive technology for the visually impaired**, **real-time computer vision pipelines**, and **interactive 3D applications with voice-driven interfaces** — reflecting a builder who enjoys working across the full stack, from perception algorithms to polished user experiences.
+I approach every project with a **product engineering mindset**: understanding the end user, designing for reliability, and shipping systems that are both technically sound and genuinely useful. My project portfolio includes **interactive applications with real-time user interaction**, **full-stack web development work**, and **systems that combine multiple technologies into one cohesive product** — reflecting a builder who enjoys working across the stack and picking up new tools as a project demands.
 
 ### 🎯 Open To
 
 <div align="center">
 
-| 💼 Full-Time Roles | 🧠 AI/ML Engineering | 🌐 Full Stack Development | 🤝 Open Source Collaboration |
+| 💼 Full-Time Roles | 🌐 Full Stack Development | 🧩 Software Engineering | 🤝 Open Source Collaboration |
 |:---:|:---:|:---:|:---:|
-| Software Engineer | Computer Vision | React + Backend Systems | Assistive Tech Projects |
+| Software Engineer | React + Java Backends | Problem Solving & DSA | Web Projects |
 
 </div>
 
@@ -77,7 +77,7 @@ I approach every project with a **product engineering mindset**: understanding t
 
 <img src="https://skillicons.dev/icons?i=java,mysql,nodejs&theme=dark"/>
 
-**Cloud, DevOps & Tooling**
+**Tooling & Environment**
 
 <img src="https://skillicons.dev/icons?i=eclipse,git,github,vscode,unity&theme=dark"/>
 
@@ -85,17 +85,17 @@ I approach every project with a **product engineering mindset**: understanding t
 
 ---
 
-## 🤖 AI / ML Expertise
+## 💡 Core Skills
 
 <div align="center">
 
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| **Computer Vision** | ⭐⭐⭐⭐☆ | Real-time object detection using **YOLOv8** with **~90% accuracy** across 10+ obstacle classes |
-| **Image Processing** | ⭐⭐⭐⭐☆ | Frame preprocessing, obstacle recognition, and real-time inference pipelines using **OpenCV** |
-| **Voice Intelligence** | ⭐⭐⭐☆☆ | Voice recognition systems integrated for hands-free, real-time user interaction |
-| **AI Opponent Design** | ⭐⭐⭐☆☆ | Built a rule/AI-based single-player opponent engine for interactive 3D gameplay |
-| **Applied ML for Accessibility** | ⭐⭐⭐⭐☆ | Designed AI systems specifically for assistive use cases — navigation and obstacle detection for the visually impaired |
+| Area | Details |
+|---|---|
+| **Programming** | Strong command of **Java** with solid grounding in OOP, Data Structures, and the Collections Framework |
+| **Web Development** | Building responsive, interactive UIs with **HTML, CSS, JavaScript, and React.js** |
+| **Databases** | Writing and optimizing queries with **SQL** for relational data handling |
+| **Problem Solving** | Comfortable breaking down complex requirements into structured, working solutions |
+| **Full Stack Delivery** | Experience connecting front-end interfaces to backend logic for complete, functional applications |
 
 </div>
 
@@ -104,21 +104,21 @@ I approach every project with a **product engineering mindset**: understanding t
 ## 🚀 Featured Projects
 
 <details>
-<summary><b>🦾 Echoway — AI-Powered Assistive Navigation System for the Visually Impaired</b></summary>
+<summary><b>🦾 Echoway — Real-Time Object Detection & Instruction System</b></summary>
 <br/>
 
-An AI-powered object detection and instruction system designed to help visually impaired users navigate their environment safely and independently, combining real-time computer vision with voice-driven interaction and location-aware guidance.
+A software system built to detect obstacles in real time and provide voice-based guidance and navigation assistance, combining live camera input, real-time detection, and location tracking into one integrated application.
 
 | Category | Details |
 |---|---|
 | **Stack** | Python, OpenCV, YOLOv8, Voice Recognition APIs, Location Tracking |
 | **Scale** | Detects **10+ obstacle categories** in real time |
 | **Performance** | **~90% detection accuracy** under real-time constraints |
-| **Security** | Local on-device inference to minimize data exposure |
-| **Impact** | Enables safer independent navigation for visually impaired users |
+| **Security** | Local on-device processing to minimize data exposure |
+| **Impact** | Provides real-time navigation assistance through voice interaction |
 | **Repository** | [github.com/Abiramik-2004](https://github.com/Abiramik-2004) |
 
-**Overview:** Echoway was engineered to bridge the gap between raw computer vision output and actionable, human-usable guidance. The system uses YOLOv8 for high-speed obstacle detection, layers in voice recognition for hands-free real-time interaction, and integrates location tracking to provide contextual navigation cues — resulting in an assistive tool that behaves less like a demo and more like a dependable daily companion.
+**Overview:** Echoway integrates a real-time detection pipeline with voice interaction and location tracking into a single working system. The focus of the project was on system integration — connecting detection output to a usable voice interface and turning it into a responsive, real-time application end to end.
 
 </details>
 
@@ -126,7 +126,7 @@ An AI-powered object detection and instruction system designed to help visually 
 <summary><b>♟️ Echoknight — Voice-Controlled 3D Chess Game</b></summary>
 <br/>
 
-A fully interactive 3D chess application built in Unity, featuring voice-command gameplay, a custom AI opponent, and an accessible, immersive UI designed around 3D chess pieces.
+A fully interactive 3D chess application built in Unity, featuring voice-command gameplay, a single-player opponent, and an accessible, immersive UI designed around custom 3D chess pieces.
 
 | Category | Details |
 |---|---|
@@ -134,10 +134,10 @@ A fully interactive 3D chess application built in Unity, featuring voice-command
 | **Scale** | Full single-player chess engine with custom 3D asset pipeline |
 | **Performance** | Real-time voice command parsing with responsive gameplay |
 | **Security** | Local single-player execution, no external data dependencies |
-| **Impact** | Demonstrates accessible, voice-first game design principles |
+| **Impact** | Demonstrates accessible, voice-first interaction design |
 | **Repository** | [github.com/Abiramik-2004](https://github.com/Abiramik-2004) |
 
-**Overview:** Echoknight explores voice as a primary input modality within a traditionally mouse/touch-driven genre. Beyond implementing standard chess logic and an AI-based single-player opponent, the project focuses heavily on interaction design — making a 3D game genuinely playable and enjoyable through voice alone, with custom-modeled chess pieces enhancing the immersive experience.
+**Overview:** Echoknight explores voice as a primary input modality within a traditionally mouse/touch-driven genre. The project covers standard chess logic and a single-player opponent, with a strong focus on interaction design — making a 3D game genuinely playable through voice alone, with custom-modeled chess pieces enhancing the experience.
 
 </details>
 
@@ -252,22 +252,22 @@ Trained in **Core Java, OOP, JDBC, Servlets, HTML, CSS, JavaScript**
 
 ```yaml
 learning:
-  - "Advanced Deep Learning & Model Optimization"
-  - "System Design for Scalable AI Applications"
-  - "Cloud Deployment for ML Pipelines"
+  - "Advanced Java & Backend System Design"
+  - "React Ecosystem & Modern Front-End Patterns"
+  - "Database Design & Query Optimization"
 
 building:
-  - "Real-time assistive AI systems"
   - "Full stack applications with React + Java backends"
+  - "Personal projects to strengthen system design fundamentals"
 
 exploring:
-  - "MLOps and production-grade computer vision"
-  - "Edge AI for low-latency inference"
+  - "REST API design and backend architecture"
+  - "Deployment and cloud basics for web applications"
 
 open_to:
   - "Software Engineering Roles"
-  - "AI/ML Engineering Roles"
   - "Full Stack Development Opportunities"
+  - "Java Backend Development"
   - "Open Source Collaboration"
 ```
 
@@ -288,9 +288,8 @@ open_to:
 
 <div align="center">
 
-<i>"Engineering thoughtful technology means building not just what works — but what helps."</i>
+<i>"Good software is built one solid, working piece at a time."</i>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:2d0b5a,100:0f0524&height=150&section=footer" width="100%"/>
 
 </div>
-
