@@ -207,7 +207,7 @@ Trained in **Core Java, OOP, JDBC, Servlets, HTML, CSS, JavaScript**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abiramik-2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A0A05&title_color=FF7A45&icon_color=FF6B35&text_color=FFC299&ring_color=FF4E50" width="49%"/>
+
 <img src="https://streak-stats.demolab.com/?user=Abiramik-2004&theme=tokyonight&hide_border=true&background=1A0A05&ring=FF6B35&fire=FF4E50&currStreakLabel=FF7A45" width="49%"/>
 
 <br/>
