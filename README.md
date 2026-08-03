@@ -218,16 +218,6 @@ Trained in **Core Java, OOP, JDBC, Servlets, HTML, CSS, JavaScript**
 
 ---
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Abiramik-2004&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8&title=Commits,Stars,Followers,PullRequest,Issues,Repositories,Experience"/>
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -238,15 +228,6 @@ Trained in **Core Java, OOP, JDBC, Servlets, HTML, CSS, JavaScript**
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Abiramik-2004/Abiramik-2004/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
----
 
 ## 🎯 Current Focus
 
