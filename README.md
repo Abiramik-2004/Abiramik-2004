@@ -210,10 +210,6 @@ Trained in **Core Java, OOP, JDBC, Servlets, HTML, CSS, JavaScript**
 
 <img src="https://streak-stats.demolab.com/?user=Abiramik-2004&theme=tokyonight&hide_border=true&background=1A0A05&ring=FF6B35&fire=FF4E50&currStreakLabel=FF7A45" width="49%"/>
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abiramik-2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A0A05&title_color=FF7A45&text_color=FFC299" width="49%"/>
-
 </div>
 
 ---
