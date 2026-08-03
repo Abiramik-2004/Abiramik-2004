@@ -192,7 +192,7 @@ Trained in **Core Java, OOP, JDBC, Servlets, HTML, CSS, JavaScript**
 
 <div align="center">
 
-<a href="https://leetcode.com/Abiramik-2004"><img src="https://img.shields.io/badge/LeetCode-Profile-FF6B35?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="[https://leetcode.com/Abiramik-2004](https://leetcode.com/u/Abiramikanthasamy/)"><img src="https://img.shields.io/badge/LeetCode-Profile-FF6B35?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 <a href="https://www.geeksforgeeks.org/user/Abiramik-2004"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-FF4E50?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
 <a href="https://www.hackerrank.com/Abiramik-2004"><img src="https://img.shields.io/badge/HackerRank-Profile-FF7F50?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
 <a href="https://www.codechef.com/users/Abiramik-2004"><img src="https://img.shields.io/badge/CodeChef-Profile-FF8C69?style=for-the-badge&logo=codechef&logoColor=white"/></a>
