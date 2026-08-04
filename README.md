@@ -35,15 +35,6 @@
 
 ## 👩‍💻 About Me
 
-```yaml
-name: "Abirami K"
-role: "Computer Science Engineer | Full Stack Developer"
-location: "Cuddalore, Tamil Nadu, India"
-education: "B.E in Computer Science Engineering — Alagappa Chettiar Government
-            College of Engineering and Technology, Karaikudi (2021 – 2025)"
-focus: ["Full Stack Web Development", "Java Engineering", "Software Design",
-        "Problem Solving", "Product-Minded Engineering"]
-```
 
 I'm a Computer Science Engineering graduate with a strong foundation in **Java, SQL, and modern web development**. I enjoy building complete, working applications — from structuring backend logic to designing clean, usable front-end interfaces — and I care about writing code that's reliable, readable, and easy to maintain.
 
