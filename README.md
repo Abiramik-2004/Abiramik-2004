@@ -16,7 +16,7 @@
 
 <br/><br/>
 
-<a href="https://github.com/Abiramik-2004"><img src="https://img.shields.io/badge/Portfolio-Visit-FF6B35?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://abiramikanthasamy.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-FF6B35?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/abirami-kanthasamy"><img src="https://img.shields.io/badge/LinkedIn-Connect-FF4E50?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:abiramikanthasamy@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-FF7F50?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/Abiramik-2004"><img src="https://img.shields.io/badge/GitHub-Follow-FF8C69?style=for-the-badge&logo=github&logoColor=white"/></a>
