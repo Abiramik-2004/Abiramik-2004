@@ -145,6 +145,18 @@ A fully interactive 3D chess application built in Unity, featuring voice-command
 
 ## 💼 Experience
 
+**Associate Software Engineer · Techflick Solution**  
+`Full-Time`
+
+Working as an Associate Software Engineer, gaining hands-on experience in software development, technical training, and application development while strengthening programming and problem-solving skills.
+
+- Developing and enhancing software applications using **Java, Python, SQL**, and web technologies
+- Applying **Object-Oriented Programming, data structures, and database concepts** to practical development tasks
+- Participating in technical training, coding assignments, debugging, and collaborative development activities
+- Strengthening problem-solving and software engineering skills through hands-on projects and continuous learning
+
+`Python` `SQL` `OOP` `Software Development` `Debugging` `Problem Solving`
+
 **Web Development Intern · NSIC Technical Service Center, Chennai**
 `Internship`
 
