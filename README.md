@@ -67,7 +67,7 @@ I approach every project with a **product engineering mindset**: understanding t
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=java, python,js,html,css&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark"/>
 
 **Frontend**
 
