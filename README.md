@@ -201,11 +201,26 @@ A 3D chess game built in Unity where players control the game with voice command
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Abiramik-2004&amp;theme=tokyonight&amp;hide_border=true&amp;background=1A0A05&amp;ring=FF6B35&amp;fire=FF4E50&amp;currStreakLabel=FF7A45" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Abiramik-2004&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=1A0A05&amp;title_color=FF7A45&amp;icon_color=FF6B35&amp;text_color=FFE8D6" alt="Abirami's GitHub Stats" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=Abiramik-2004&amp;theme=tokyonight&amp;hide_border=true&amp;background=1A0A05&amp;ring=FF6B35&amp;fire=FF4E50&amp;currStreakLabel=FF7A45" alt="GitHub Contribution Streak" width="49%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abiramik-2004&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=1A0A05&amp;title_color=FF7A45&amp;text_color=FFE8D6" alt="Top Languages" width="49%"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Abiramik-2004&amp;theme=onedark&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;column=4" alt="GitHub Profile Trophies" width="100%"/>
 
 </div>
 
@@ -215,7 +230,7 @@ A 3D chess game built in Unity where players control the game with voice command
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abiramik-2004&amp;theme=react-dark&amp;bg_color=1A0A05&amp;color=FF7A45&amp;line=FF6B35&amp;point=FFE8D6&amp;area=true&amp;hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abiramik-2004&amp;theme=react-dark&amp;bg_color=1A0A05&amp;color=FF7A45&amp;line=FF6B35&amp;point=FFE8D6&amp;area=true&amp;hide_border=true" alt="GitHub Contribution Activity Graph" width="100%"/>
 
 </div>
 
