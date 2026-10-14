@@ -1,31 +1,31 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a0a05,50:c1440e,100:ff7a45&amp;height=220&amp;section=header&amp;text=ABIRAMI%20K&amp;fontSize=52&amp;fontColor=FFE8D6&amp;fontAlignY=38&amp;animation=fadeIn&amp;desc=Backend%20Developer%20%7C%20C%23%20%26%20ASP.NET%20Core%20%7C%20Java&amp;descAlignY=58&amp;descSize=18&amp;descColor=FFC299" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a05,50:c1440e,100:ff7a45&height=220&section=header&text=ABIRAMI%20K&fontSize=52&fontColor=FFE8D6&fontAlignY=38&animation=fadeIn&desc=Backend%20Developer%20%7C%20C%23%20%26%20ASP.NET%20Core%20%7C%20Java&descAlignY=58&descSize=18&descColor=FFC299" width="100%"/>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=800&amp;color=FF6B35&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Backend+Developer+%7C+C%23+%2B+ASP.NET+Core;Building+Secure+%26+Scalable+REST+APIs;SQL+Server+%7C+Entity+Framework+Core;AI+Projects+with+OpenCV+%26+YOLOv8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FF6B35&center=true&vCenter=true&width=700&lines=Backend+Developer+%7C+C%23+%2B+ASP.NET+Core;Building+Secure+%26+Scalable+REST+APIs;SQL+Server+%7C+Entity+Framework+Core;AI+Projects+with+OpenCV+%26+YOLOv8" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/B.E-Computer%20Science-FF6B35?style=flat-square&amp;logo=googlescholar&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/CGPA-7.64-FF4E50?style=flat-square&amp;logo=bookstack&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Location-Cuddalore%2C%20Tamil%20Nadu%2C%20India-FF8C69?style=flat-square&amp;logo=googlemaps&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/B.E-Computer%20Science-FF6B35?style=flat-square&logo=googlescholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/CGPA-7.64-FF4E50?style=flat-square&logo=bookstack&logoColor=white"/>
+<img src="https://img.shields.io/badge/Location-Cuddalore%2C%20Tamil%20Nadu%2C%20India-FF8C69?style=flat-square&logo=googlemaps&logoColor=white"/>
 
 <br/><br/>
 
-<a href="https://abiramikanthasamy.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-FF6B35?style=for-the-badge&amp;logo=vercel&amp;logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/abirami-kanthasamy"><img src="https://img.shields.io/badge/LinkedIn-Connect-FF4E50?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/></a>
-<a href="mailto:abiramikanthasamy@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-FF7F50?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/></a>
-<a href="https://github.com/Abiramik-2004"><img src="https://img.shields.io/badge/GitHub-Follow-FF8C69?style=for-the-badge&amp;logo=github&amp;logoColor=white"/></a>
+<a href="https://abiramikanthasamy.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-FF6B35?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/abirami-kanthasamy"><img src="https://img.shields.io/badge/LinkedIn-Connect-FF4E50?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:abiramikanthasamy@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-FF7F50?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Abiramik-2004"><img src="https://img.shields.io/badge/GitHub-Follow-FF8C69?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Abiramik-2004&amp;style=flat-square&amp;color=ff6b35&amp;label=Profile+Views"/>
-<img src="https://img.shields.io/github/followers/Abiramik-2004?style=flat-square&amp;color=ff4e50&amp;labelColor=1a0a05&amp;logo=github&amp;label=Followers"/>
-<img src="https://img.shields.io/github/stars/Abiramik-2004?style=flat-square&amp;color=ff8c69&amp;labelColor=1a0a05&amp;logo=github&amp;label=Stars"/>
+<img src="https://komarev.com/ghpvc/?username=Abiramik-2004&style=flat-square&color=ff6b35&label=Profile+Views"/>
+<img src="https://img.shields.io/github/followers/Abiramik-2004?style=flat-square&color=ff4e50&labelColor=1a0a05&logo=github&label=Followers"/>
+<img src="https://img.shields.io/github/stars/Abiramik-2004?style=flat-square&color=ff8c69&labelColor=1a0a05&logo=github&label=Stars"/>
 
 </div>
 
@@ -47,15 +47,15 @@ focus: ["Backend Development", "ASP.NET Core Web APIs", "SQL Server and Database
 
 I'm a Computer Science Engineering graduate with strong skills in **C#, Java, ASP.NET Core, SQL Server, and web development**. I'm looking for a **Backend Developer** role where I can build **secure, scalable RESTful APIs and database-driven applications**.
 
-I've also built **AI-based applications using OpenCV and YOLOv8**, and I'm passionate about software development, problem-solving, and creating applications that scale.
+I've also built **AI-based applications using OpenCV and YOLOv8**, and I enjoy problem-solving and creating applications that scale.
 
 ### 🎯 Open To
 
 <div align="center">
 
-| 💼 Full-Time Roles | ⚙️ Backend Development | 🧩 Software Engineering | 🤝 Open Source |
+| 💼 Full-Time Roles | ⚙️ Backend Development | 🌐 Full Stack Development | 🧩 Software Engineering |
 |:---:|:---:|:---:|:---:|
-| Backend Developer | C# · ASP.NET Core · Java | Problem Solving and DSA | Web and AI Projects |
+| Fresher / Entry-Level | C# · ASP.NET Core · Java | React · REST APIs · SQL | Problem Solving and DSA |
 
 </div>
 
@@ -67,23 +67,23 @@ I've also built **AI-based applications using OpenCV and YOLOv8**, and I'm passi
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=cs,java,python,js&amp;theme=dark"/>
+<img src="https://skillicons.dev/icons?i=cs,java,python,js&theme=dark"/>
 
 **Backend and Data**
 
-<img src="https://skillicons.dev/icons?i=dotnet,cs&amp;theme=dark"/>
+<img src="https://skillicons.dev/icons?i=dotnet&theme=dark"/>
 <br/>
-<img src="https://img.shields.io/badge/SQL%20Server-T--SQL-CC2927?style=for-the-badge&amp;logo=microsoftsqlserver&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Entity%20Framework%20Core-LINQ-512BD4?style=for-the-badge&amp;logo=dotnet&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-Authentication-000000?style=for-the-badge&amp;logo=jsonwebtokens&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL%20Server-T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Entity%20Framework%20Core-LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react&amp;theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark"/>
 
 **Tools and AI**
 
-<img src="https://skillicons.dev/icons?i=unity,opencv,eclipse,github&amp;theme=dark"/>
+<img src="https://skillicons.dev/icons?i=unity,opencv,eclipse,github&theme=dark"/>
 <img src="https://img.shields.io/badge/YOLOv8-Object%20Detection-FF6B35?style=for-the-badge"/>
 
 </div>
@@ -103,7 +103,7 @@ I've also built **AI-based applications using OpenCV and YOLOv8**, and I'm passi
 | **Databases** | **SQL Server, T-SQL** — Joins, Subqueries, Views, Stored Procedures, Indexing, Normalization, Transactions |
 | **Data Access** | **Entity Framework Core, LINQ** |
 | **AI and System Design** | Prompt Engineering, System Design, AI Integration in Backend Systems |
-| **Web** | HTML, CSS, React.js |
+| **Web** | HTML, CSS, JavaScript, React.js |
 | **Problem Solving** | 100+ problems solved on LeetCode and Codeforces |
 
 </div>
@@ -120,11 +120,10 @@ An AI-powered system that detects obstacles and guides visually impaired users t
 
 | Category | Details |
 |---|---|
-| **Stack** | Python, OpenCV, YOLOv8, Voice Recognition, Location Tracking |
+| **Stack** | OpenCV, YOLOv8, Voice Recognition, Location Tracking |
 | **Detection** | Detects **10+ obstacles** with **~90% accuracy** |
 | **Interaction** | Voice recognition for real-time user interaction and assistance |
 | **Navigation** | Location tracking to guide visually impaired users |
-| **Repository** | [github.com/Abiramik-2004](https://github.com/Abiramik-2004) |
 
 </details>
 
@@ -136,10 +135,9 @@ A 3D chess game built in Unity where players control the game with voice command
 
 | Category | Details |
 |---|---|
-| **Stack** | Unity, C#, Voice Recognition |
+| **Stack** | Unity, Voice Recognition |
 | **Gameplay** | Voice command functionality and an AI-based opponent for single-player |
 | **UI/UX** | Interactive, accessible UI with custom 3D chess pieces |
-| **Repository** | [github.com/Abiramik-2004](https://github.com/Abiramik-2004) |
 
 </details>
 
@@ -174,7 +172,7 @@ A 3D chess game built in Unity where players control the game with voice command
 
 ---
 
-## 🏆 Achievements and Certifications
+## 🏅 Achievements and Certifications
 
 <div align="center">
 
@@ -194,8 +192,8 @@ A 3D chess game built in Unity where players control the game with voice command
 
 <div align="center">
 
-<a href="https://leetcode.com/u/Abiramikanthasamy/"><img src="https://img.shields.io/badge/LeetCode-Profile-FF6B35?style=for-the-badge&amp;logo=leetcode&amp;logoColor=white"/></a>
-<a href="https://codeforces.com/profile/YOUR_CODEFORCES_HANDLE"><img src="https://img.shields.io/badge/Codeforces-Profile-FF4E50?style=for-the-badge&amp;logo=codeforces&amp;logoColor=white"/></a>
+<a href="https://leetcode.com/u/Abiramikanthasamy/"><img src="https://img.shields.io/badge/LeetCode-Profile-FF6B35?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://codeforces.com/profile/AbiramiKanthasamy"><img src="https://img.shields.io/badge/Codeforces-Profile-FF4E50?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
 
 </div>
 
@@ -205,12 +203,12 @@ A 3D chess game built in Unity where players control the game with voice command
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abiramik-2004&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=1A0A05&amp;title_color=FF7A45&amp;icon_color=FF6B35&amp;text_color=FFE8D6" alt="Abirami's GitHub Stats" width="49%"/>
-<img src="https://streak-stats.demolab.com?user=Abiramik-2004&amp;theme=tokyonight&amp;hide_border=true&amp;background=1A0A05&amp;ring=FF6B35&amp;fire=FF4E50&amp;currStreakLabel=FF7A45" alt="GitHub Contribution Streak" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Abiramik-2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A0A05&title_color=FF7A45&icon_color=FF6B35&text_color=FFE8D6" alt="Abirami's GitHub Stats" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=Abiramik-2004&theme=tokyonight&hide_border=true&background=1A0A05&ring=FF6B35&fire=FF4E50&currStreakLabel=FF7A45" alt="GitHub Contribution Streak" width="49%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abiramik-2004&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=1A0A05&amp;title_color=FF7A45&amp;text_color=FFE8D6" alt="Top Languages" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abiramik-2004&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1A0A05&title_color=FF7A45&text_color=FFE8D6" alt="Top Languages" width="49%"/>
 
 </div>
 
@@ -220,7 +218,7 @@ A 3D chess game built in Unity where players control the game with voice command
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Abiramik-2004&amp;theme=onedark&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;column=4" alt="GitHub Profile Trophies" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Abiramik-2004&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub Profile Trophies" width="100%"/>
 
 </div>
 
@@ -230,7 +228,7 @@ A 3D chess game built in Unity where players control the game with voice command
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abiramik-2004&amp;theme=react-dark&amp;bg_color=1A0A05&amp;color=FF7A45&amp;line=FF6B35&amp;point=FFE8D6&amp;area=true&amp;hide_border=true" alt="GitHub Contribution Activity Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abiramik-2004&theme=react-dark&bg_color=1A0A05&color=FF7A45&line=FF6B35&point=FFE8D6&area=true&hide_border=true" alt="GitHub Contribution Activity Graph" width="100%"/>
 
 </div>
 
@@ -249,9 +247,8 @@ building:
   - "AI-based projects using OpenCV and YOLOv8"
 
 open_to:
-  - "Backend Developer Roles"
-  - "Software Engineering Opportunities"
-  - "Open Source Collaboration"
+  - "Backend and Full Stack Developer Roles"
+  - "Software Engineering Opportunities (Fresher)"
 ```
 
 ---
@@ -260,10 +257,10 @@ open_to:
 
 <div align="center">
 
-<a href="mailto:abiramikanthasamy@gmail.com"><img src="https://img.shields.io/badge/Gmail-abiramikanthasamy%40gmail.com-FF6B35?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/abirami-kanthasamy"><img src="https://img.shields.io/badge/LinkedIn-abirami--kanthasamy-FF4E50?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/></a>
-<a href="https://github.com/Abiramik-2004"><img src="https://img.shields.io/badge/GitHub-Abiramik--2004-FF7F50?style=for-the-badge&amp;logo=github&amp;logoColor=white"/></a>
-<a href="https://abiramikanthasamy.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-FF8C69?style=for-the-badge&amp;logo=vercel&amp;logoColor=white"/></a>
+<a href="mailto:abiramikanthasamy@gmail.com"><img src="https://img.shields.io/badge/Gmail-abiramikanthasamy%40gmail.com-FF6B35?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/abirami-kanthasamy"><img src="https://img.shields.io/badge/LinkedIn-abirami--kanthasamy-FF4E50?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Abiramik-2004"><img src="https://img.shields.io/badge/GitHub-Abiramik--2004-FF7F50?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://abiramikanthasamy.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-FF8C69?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </div>
 
@@ -273,6 +270,6 @@ open_to:
 
 <i>"Good software is built one solid, working piece at a time."</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:ff7a45,50:c1440e,100:1a0a05&amp;height=150&amp;section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7a45,50:c1440e,100:1a0a05&height=150&section=footer" width="100%"/>
 
 </div>
